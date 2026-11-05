@@ -22,6 +22,10 @@ Container image registries:
  - **GitHub:**
      ghcr.io/superioone
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/NUT%20WebGUI/)
+
 ## Features
 
 - Monitors UPS variables with auto-refresh.
